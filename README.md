@@ -10,10 +10,10 @@
 [![Stars](https://img.shields.io/github/stars/Panda-995?style=flat-square&label=Total%20Stars&color=0ea5e9)](https://github.com/Panda-995?tab=repositories)
 [![Repos](https://img.shields.io/github/repos/Panda-995?tab=repositories&style=flat-square&label=Repos&color=10b981)](https://github.com/Panda-995?tab=repositories)
 [![Since](https://img.shields.io/badge/since-2022.03-6366f1?style=flat-square)](https://github.com/Panda-995)
-[![Blog](https://img.shields.io/badge/blog-panda995.top-ff6b35?style=flat-square&logo=googleblog)](https://panda995.top)
-![值得买百大](https://img.shields.io/badge/%E5%80%BC%E5%BE%97%E4%B9%B0-%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B9%B4%E7%99%BE%E5%A4%A7-ff6b35?style=flat-square)
+[![Images](https://img.shields.io/badge/Images-ghcr.io%2Fpanda--995-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Panda-995?tab=packages)
+[![值得买百大](https://img.shields.io/badge/%E5%80%BC%E5%BE%97%E4%B9%B0-%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B9%B4%E7%99%BE%E5%A4%A7-ff6b35?style=flat-square)](https://zhiyou.smzdm.com/member/9256201282/)
 
-[博客 panda995.top](https://panda995.top) · [知识库 wiki.panda995.fun](https://wiki.panda995.fun) · [镜像仓库 ghcr.io](https://github.com/Panda-995?tab=repositories)
+[🪞 镜像仓库 ghcr.io/panda-995](https://github.com/Panda-995?tab=packages) · [🛒 值得买主页](https://zhiyou.smzdm.com/member/9256201282/) · 微信公众号：**Panda不是猫**
 
 </div>
 
@@ -128,7 +128,7 @@ React 19 · Next.js · FastAPI · PostgreSQL · Redis · Tailwind CSS · ESP32 �
 
 ## 📝 关于我
 
-主业电商运营，副业写点东西。**什么值得买连续两年百大**，微信粉丝群 3000+ 人，长期混【docker聚集地】。
+主业电商运营，副业写点东西。在[什么值得买](https://zhiyou.smzdm.com/member/9256201282/)拿了**连续两年百大**，微信公众号 Panda不是猫，微信粉丝群 3000+ 人，长期混【docker聚集地】。
 
 我这人比较实在：
 
@@ -145,6 +145,6 @@ React 19 · Next.js · FastAPI · PostgreSQL · Redis · Tailwind CSS · ESP32 �
 
 **© Panda-995 · 保持好奇，持续折腾**
 
-[GitHub](https://github.com/Panda-995) · [博客](https://panda995.top) · [知识库](https://wiki.panda995.fun)
+[GitHub](https://github.com/Panda-995) · [镜像仓库](https://github.com/Panda-995?tab=packages) · [值得买](https://zhiyou.smzdm.com/member/9256201282/) · 公众号 **Panda不是猫**
 
 </div>
